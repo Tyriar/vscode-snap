@@ -1,5 +1,5 @@
 name: code
-version: 1.16.1-1505406497
+version: 1.17.0-1506316653
 summary: Code editing. Redefined.
 description: |
   Visual Studio Code is a new choice of tool that combines the
@@ -12,7 +12,7 @@ confinement: classic
 parts:
   code:
     plugin: dump
-    source: https://az764295.vo.msecnd.net/stable/27492b6bf3acb0775d82d2f87b25a93490673c6d/code_1.16.1-1505406497_amd64.deb
+    source: https://az764295.vo.msecnd.net/insider/c971716b039fd295a87ac11bfd4c451e060d4e47/code-insiders_1.17.0-1506316653_amd64.deb
     source-type: deb
     # Correct path to icon.
     # Remove translated Name[xx]=
